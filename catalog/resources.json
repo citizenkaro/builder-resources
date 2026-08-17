@@ -3593,5 +3593,13 @@
     "tags": ["json-rpc", "multi-chain", "devops", "performance-optimization"],
     "website": "https://drpc.org/nodecore-open-source-rpc-infrastructure",
     "subcategory_id": "rpc-node-infrastructure"
+  },
+  {
+    "name": "EVM RPC Picker",
+    "description": "A terminal UI that searches 1000+ EVM chains, latency-tests their public RPC endpoints, and exports the winner as ETH_RPC_URL for Foundry and Hardhat commands. It also manages your own private endpoints with encrypted storage and per-project favorites, so reach for it when you switch chains often and are tired of pasting RPC URLs.",
+    "tags": ["cli", "json-rpc", "multi-chain", "developer-experience"],
+    "subcategory_id": "rpc-node-infrastructure",
+    "repos": ["https://github.com/radeksvarz/evm-rpc-picker"],
+    "packages": ["https://pypi.org/project/evm-rpc-picker/"]
   }
 ]
