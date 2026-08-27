@@ -3604,7 +3604,7 @@
   },
   {
     "name": "Passport Embed",
-    "description": "Passport Embed is a React component that runs Human Passport verification inside your own app. Users collect identity credentials, called Stamps, and reach a score without leaving the page. Reach for it when a redirect to a separate verification site costs you signups.",
+    "description": "Passport Embed is a React component that runs Human Passport verification inside a project's own site or app. Users collect identity credentials, called Stamps, and reach a score without leaving the page. It removes the redirect to a separate verification site, which is a common place to lose signups.",
     "tags": ["react", "frontend", "identity", "authentication"],
     "subcategory_id": "frontend-integration-tooling",
     "website": "https://passport.human.tech/",
@@ -3630,7 +3630,7 @@
   },
   {
     "name": "Clean SDK",
-    "description": "Clean SDK is a TypeScript client for private token transfers between Ethereum and Aztec, and the toolkit behind the Shield bridge. Each transfer checks the sender's proof of personhood and screens the sending address against sanctions lists, at entry and exit. The package calls deployed contracts and a hosted attestation service, so integrators write no Noir.",
+    "description": "Clean SDK is a TypeScript client for private token transfers between Ethereum and Aztec, and the toolkit behind the Shield bridge. Each transfer screens the sending address against sanctions lists at entry and exit, and requires either a Human Passport score or a zero-knowledge government ID proof. The package calls deployed contracts and a hosted attestation service, so integrators write no Noir.",
     "tags": ["cross-chain", "privacy-focused", "sdk", "identity"],
     "subcategory_id": "cross-chain-infrastructure",
     "website": "https://shield.human.tech/",
