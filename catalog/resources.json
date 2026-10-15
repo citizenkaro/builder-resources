@@ -4496,7 +4496,7 @@
     "twitter": "https://x.com/joddoss"
   },
   {
-    "name": "human.tech Wallet Protocol",
+    "name": "human.tech Wallet Protocol (WaaP)",
     "description": "The human.tech Wallet Protocol (WaaP) gives an app embedded wallets with no seed phrase, opened by email, phone or social login. Signing keys stay off the user's device, inside an attested enclave by default or split with the Ika network in the opt-in Squid Mode, and a policy engine checks every transaction before it is signed. One account signs on EVM chains, Sui and Solana, through the WaaP SDK for apps or the WaaP CLI for agents.",
     "tags": ["wallet", "authentication", "sdk", "cli", "transaction-signing"],
     "subcategory_id": "wallet-integration-auth",
