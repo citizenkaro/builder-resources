@@ -4505,5 +4505,19 @@
     "packages": ["https://www.npmjs.com/package/@devlab.group/agent-commerce"],
     "thumbnail_url": "https://acg.devlab.group/favicon.svg",
     "llmstext": "https://acg.devlab.group/llms.txt"
+  },
+  {
+    "name": "human.tech Wallet Protocol (WaaP)",
+    "description": "The human.tech Wallet Protocol (WaaP) gives an app embedded wallets with no seed phrase, opened by email, phone or social login. Signing keys stay off the user's device, inside an attested enclave by default or split with the Ika network in the opt-in Squid Mode, and a policy engine checks every transaction before it is signed. One account signs on EVM chains, Sui and Solana, through the WaaP SDK for apps or the WaaP CLI for agents.",
+    "tags": ["wallet", "authentication", "sdk", "cli", "transaction-signing"],
+    "subcategory_id": "wallet-integration-auth",
+    "website": "https://wallet.human.tech/",
+    "packages": [
+      "https://www.npmjs.com/package/@human.tech/waap-sdk",
+      "https://www.npmjs.com/package/@human.tech/waap-cli"
+    ],
+    "twitter": "https://x.com/humntech",
+    "thumbnail_url": "https://wallet.human.tech/favicons/apple-touch-icon.png",
+    "llmstext": "https://docs.waap.human.tech/llms.txt"
   }
 ]
